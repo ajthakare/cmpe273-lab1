@@ -1,7 +1,7 @@
 
 import requests
 
-print("\nLab 1 Assingment 1\nSynchronous calls to HTTP Request\n")
+print("\nLab 1 Assignment 1\nSynchronous calls to HTTP Request\n")
 
 webhookpath="https://webhook.site/e2eb4553-8b8e-46da-b7f5-17551fee7f9e"
 

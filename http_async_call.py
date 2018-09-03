@@ -3,7 +3,7 @@ import asyncio
 import requests
 import random
 
-print("\nLab 1 Assingment 2\nAsynchronous calls for HTTP Request\n")
+print("\nLab 1 Assignment 2\nAsynchronous calls for HTTP Request\n")
 
 webhookpath="https://webhook.site/e2eb4553-8b8e-46da-b7f5-17551fee7f9e"
 
