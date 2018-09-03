@@ -11,6 +11,4 @@ for i in range(3):
     if(response.status_code==requests.codes.ok):
         print("Response "+str(i+1)+" Date- "+response.headers['date'])
     else:
-        response.raise_for_status()
         print("Error occured for request number "+str(i+1))
-    
